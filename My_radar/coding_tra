@@ -1,0 +1,9 @@
+• The program should display and update a timer in seconds at the top-right corner of the window.
+• Aircrafts should be able to take off after a given delay.
+
+Aircrafts’ hitbox and size could be in a 3D space.
+• Aircrafts could cross any side of a screen and appear on the opposite one.
+• Aircrafts’ hitbox and sprite could rotate depending on the aircrafts’ direction.
+• Aircrafts’ hitbox could follow the sprite boundary.
+• Aircrafts’ hitbox could have different sizes.
+• Control towers’ areas could cross any side of the screen and affect the opposite one.
