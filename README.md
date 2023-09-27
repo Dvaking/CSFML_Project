@@ -2,12 +2,7 @@
 
 Epitech graphical project
 
-## Table of Contents
-
-1. [My Hunter](#my_hunter)
-2. [Technologies](#technologies)
-
-## My Hunter
+## 🦆 • My Hunter
 
 The goal of this project, was to make a small video game like **Duck Hunt.**
 
@@ -16,7 +11,7 @@ The goal of this project, was to make a small video game like **Duck Hunt.**
 - ducks must appear on the screen and move from one side to another.
 - the player can click on them to shoot them
 
-## My radar
+## 🛫 • My radar
 
 The goal of this project, was to make a **2D render** showing a **simulation of air traffic** (AT)
 
