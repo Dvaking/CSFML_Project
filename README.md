@@ -25,8 +25,8 @@ The goal of this project, was to make a **2D render** showing a **simulation of 
 - control towers don’t move and have control areas on the map.
 - control towers appear on the simulation panel at launch.
 
-### Technologies
 
+## Technologies
 
 [![CSFML](https://img.shields.io/badge/CSFML-Dvaking?style=for-the-badge&color=light%20green&link=https%3A%2F%2Fwww.sfml-dev.org%2Fdownload%2Fcsfml%2F)
 ](https://www.sfml-dev.org/download/csfml/)
